@@ -4,6 +4,7 @@
 #include "./src/header/4.h"
 #include "./src/header/5.h"
 #include "./src/header/6.h"
+#include "./src/header/7.h"
 
 // #include "./src/header/sample.h"
 using namespace std;
@@ -15,7 +16,8 @@ int main()
     // LongestSubstringWithoutRepeatingCharacters a;
     // MedianOfTwoSortedArrays a;
     // LongestPalindromicSubstring a;
-    ZigZagConversion a;
+    // ZigZagConversion a;
+    ReverseInteger a;
 
     a.test();
 
