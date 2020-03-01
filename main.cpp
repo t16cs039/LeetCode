@@ -6,6 +6,11 @@
 #include "./src/header/6.h"
 #include "./src/header/7.h"
 
+#include "./wc178/header/1365.h"
+#include "./wc178/header/1366.h"
+// #include "./wc178/header/1367.h"
+// #include "./wc178/header/1368.h"
+
 // #include "./src/header/sample.h"
 using namespace std;
 
@@ -17,7 +22,12 @@ int main()
     // MedianOfTwoSortedArrays a;
     // LongestPalindromicSubstring a;
     // ZigZagConversion a;
-    ReverseInteger a;
+    // ReverseInteger a;
+    
+    // HowManyNumbersAreSmallerThantheCurrentNumber a;
+    RankTeamsbyVotes a;
+    // LinkedListinBinaryTree a;
+    // MinimumCosttoMakeatLeastOneValidPathinaGrid
 
     a.test();
 
