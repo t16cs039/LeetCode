@@ -5,6 +5,7 @@
 #include "./src/header/5.h"
 #include "./src/header/6.h"
 #include "./src/header/7.h"
+#include "./src/header/8.h"
 
 #include "./wc178/header/1365.h"
 #include "./wc178/header/1366.h"
@@ -16,6 +17,8 @@ using namespace std;
 
 int main()
 {
+    /* Problem */
+    
     // TwoSum a;
     // AddTwoNumbers a;
     // LongestSubstringWithoutRepeatingCharacters a;
@@ -23,11 +26,18 @@ int main()
     // LongestPalindromicSubstring a;
     // ZigZagConversion a;
     // ReverseInteger a;
+
+    StringtoInteger_atoi a;
+
+    
+
+    /* Weekly Contest 178 */
     
     // HowManyNumbersAreSmallerThantheCurrentNumber a;
-    RankTeamsbyVotes a;
+    // RankTeamsbyVotes a;
     // LinkedListinBinaryTree a;
     // MinimumCosttoMakeatLeastOneValidPathinaGrid
+
 
     a.test();
 
