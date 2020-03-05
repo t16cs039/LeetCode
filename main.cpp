@@ -6,6 +6,7 @@
 #include "./src/header/6.h"
 #include "./src/header/7.h"
 #include "./src/header/8.h"
+#include "./src/header/9.h"
 
 #include "./wc178/header/1365.h"
 #include "./wc178/header/1366.h"
@@ -26,10 +27,9 @@ int main()
     // LongestPalindromicSubstring a;
     // ZigZagConversion a;
     // ReverseInteger a;
+    // StringtoInteger_atoi a;
 
-    StringtoInteger_atoi a;
-
-    
+    PalindromeNumber a;
 
     /* Weekly Contest 178 */
     
